@@ -2,10 +2,10 @@
   "events": [
     {
       "id": 1,
-      "name": "Tech Square",
+      "name": "HS-Events",
       "image": "https://i.ibb.co/Lz7wpMs/Tech-Square-Card-1.png",
       "price": 29.99,
-      "short_description": "Talk with product experts, experience innovations in Tech Square. Catch up on new updates from Samsung platforms and OS like SmartThings, Knox and Tizen, Mobile & Screen Experience, Home & Health Experience, Sustainability.",
+      "short_description": "Talk with product experts, experience innovations in HS-Events. Catch up on new updates from Samsung platforms and OS like SmartThings, Knox and Tizen, Mobile & Screen Experience, Home & Health Experience, Sustainability.",
       "speaker": {
         "speaker_name": "Adam Leno",
         "company": "Tech.e",
