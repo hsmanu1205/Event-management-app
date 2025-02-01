@@ -64,7 +64,7 @@ const NavBar = () => {
               </ul>
             </div>
             <Link className="flex items-center" to="/">
-              <a className="normal-case text-rose-400 text-5xl py-4">TecH.e</a>
+              <a className="normal-case text-rose-400 text-5xl py-4">HS-Events</a>
               <img className="w-12 h-12 rounded-full" src={logo} alt="" />
             </Link>
           </div>
